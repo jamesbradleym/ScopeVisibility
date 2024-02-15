@@ -1,0 +1,17 @@
+{
+  "$schema": "https://hypar.io/Schemas/Function.json",
+  "id": "7af488db-8d89-4574-a841-60c84d9bab10",
+  "name": "Scope Visibility",
+  "description": "The ScopeVisibility function.",
+  "language": "C#",
+  "input_schema": {
+    "type": "object",
+    "properties": {}
+  },
+  "element_types": [
+    "http://prod-api.hypar.io/schemas/ViewScope"
+  ],
+  "repository_url": "https://github.com/hypar-io/function",
+  "last_updated": "0001-01-01T00:00:00",
+  "cli_version": "1.11.0-alpha.18"
+}
